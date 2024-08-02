@@ -7,10 +7,15 @@ This simple maths game generates random maths questions and allows users to inpu
   <li>Provides feedback on whether the answer is correct or not</li>
   <li>Displays correct answers and feedback messages</li>
 </ul>
-<h2> Technologies Used </h2>
+<h2> Tech Stack </h2>
 <ol>
   <li>HTML5</li>
   <li>CSS3</li>
   <li>Javascript</li>
 </ol>
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
+
 Your contributions and feedback are always appreciated. Thanks for checking this game.! 😊
